@@ -9,13 +9,13 @@ https://www.kaggle.com/c/bengaliai-cv19
 
 ## Environment & Requirements
 ### Environment 
-cuda 10.0
-cudnn 7.6.5 
-gpu RTX 2080TI X 1
+cuda 10.0  
+cudnn 7.6.5   
+gpu RTX 2080TI X 1  
 cpu i9-9900k
 
 ### Requirements
-tensorflow == 1.13.1
+tensorflow == 1.13.1  
 keras == 
 
 ## V1. Keras_image_classification with MultiOutput
