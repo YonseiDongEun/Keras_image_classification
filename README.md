@@ -20,12 +20,15 @@ tensorflow == 1.13.1
 keras == 
 
 ## V1. Keras_image_classification with MultiOutput
-Using Keras for Image Classification Model with MultiOutput
-
+Using Keras for Image Classification Model with MultiOutput  
+  
+V1 Architectiure
+![model_plot](https://user-images.githubusercontent.com/46296526/76445294-8ad5ba00-6408-11ea-8cce-7eafb7532b2e.png)
 
 ## V2. Keras_image_classification with MultiOutput & Merged Model
 Using Keras for Image Classification Model with MultiOutput & Merged Model  
-
+  
+V2 Architectiure  
 ![merged_model_plot](https://user-images.githubusercontent.com/46296526/76445200-637eed00-6408-11ea-8840-f01fc2226aea.png)
 
 
