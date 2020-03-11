@@ -9,6 +9,7 @@ https://www.kaggle.com/c/bengaliai-cv19
 
 ## Environment & Requirements
 ### Environment 
+Ubuntu 18.04  
 cuda 10.0  
 cudnn 7.6.5   
 gpu RTX 2080TI X 1  
