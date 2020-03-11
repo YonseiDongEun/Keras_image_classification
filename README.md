@@ -24,7 +24,8 @@ Using Keras for Image Classification Model with MultiOutput
 
 
 ## V2. Keras_image_classification with MultiOutput & Merged Model
-Using Keras for Image Classification Model with MultiOutput & Merged Model
+Using Keras for Image Classification Model with MultiOutput & Merged Model  
 
+![merged_model_plot](https://user-images.githubusercontent.com/46296526/76445200-637eed00-6408-11ea-8840-f01fc2226aea.png)
 
 
