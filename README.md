@@ -3,9 +3,20 @@ v1 : Learn how to use Keras in Multioutput Image Classification task
 v2 : Build Merged Model with Keras (advanced version of v1)
 
 ## Data - kaggle Competition
+### Info
 Bengali.AI Handwritten Grapheme Classification
 task : Classify the components of handwritten Bengali
 https://www.kaggle.com/c/bengaliai-cv19
+### Structure
+input  
+  - train.csv  
+  - test.csv  
+  - train_parquet_0.csv  
+  - train_parquet_1.csv  
+  - train_parquet_2.csv  
+  - train_parquet_3.csv  
+  
+
 
 ## Environment & Requirements
 ### Environment 
