@@ -1,5 +1,5 @@
 ## Purpose
-v1 : Learn how to use Keras in Multioutput Image Classification task
+v1 : Learn how to use Keras in Multioutput Image Classification task  
 v2 : Build Merged Model with Keras (advanced version of v1)
 
 ## Data
