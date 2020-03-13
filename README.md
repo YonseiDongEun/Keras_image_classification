@@ -17,8 +17,10 @@ gpu RTX 2080TI X 1
 cpu i9-9900k
 
 ### Requirements
-tensorflow == 1.13.1  
-keras == 
+tensorflow-gpu == 1.13.1  
+pip install albumentations
+pip install image-classifiers
+pip install opencv-python
 
 ## V1. Keras_image_classification with MultiOutput
 Using Keras for Image Classification Model with MultiOutput  
