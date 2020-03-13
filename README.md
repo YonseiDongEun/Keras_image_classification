@@ -18,9 +18,9 @@ cpu i9-9900k
 
 ### Requirements
 tensorflow-gpu == 1.13.1  
-pip install albumentations
-pip install image-classifiers
-pip install opencv-python
+pip install albumentations  
+pip install image-classifiers  
+pip install opencv-python  
 
 ## V1. Keras_image_classification with MultiOutput
 Using Keras for Image Classification Model with MultiOutput  
